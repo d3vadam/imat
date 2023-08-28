@@ -47,6 +47,7 @@ export const education = [
 		course: "None",
 		location: "Andalucia, Spain"
 	}
+]
 
 // Contact --> #contact section
 export const contact = [
