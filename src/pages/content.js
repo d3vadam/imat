@@ -75,7 +75,7 @@ export const certificates = [
 		url: "https://github.com/game-hax/Roblox-Exploit-API",
 		description: "Certification in bypassing roblox's current anti cheat software.",
 	}
-
+]
 // Blogs --> #blogs section
 export const blogs = [
 	{
