@@ -46,7 +46,7 @@ export const education = [
 		institute: "I.E.S Al Baytar",
 		course: "None",
 		location: "Andalucia, Spain"
-	},
+	}
 
 // Contact --> #contact section
 export const contact = [
